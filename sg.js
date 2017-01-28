@@ -24,16 +24,17 @@ var numOfF=0;
 
 function forLoop(){
 	for(var i=0; i<scores.length; i++) {
-		if (scores[i] > 90) {
+		if (scores[i] > 91) {
 			numOfA++;
+			
 		}
-		else if (scores[1]>80){
+		else if (scores[i]>81){
 			numOfB++;
 		}
-		else if (scores[1]>70){
+		else if (scores[i]>71){
 			numOfC++;
 		}
-		else if (scores[1]>60){
+		else if (scores[i]>61){
 			numOfD++;
 		}
 		else {
@@ -47,3 +48,15 @@ function forLoop(){
  	console.log("number of D's: ",numOfD);
  	console.log("number of F's: ",numOfF);
 }
+
+forLoop()
+
+var min = Math.min.apply(null, scores);
+var max = Math.max.apply(null, scores);
+console.log("lowest grade: ", min);
+console.log("highest grade: ", max);
+
+
+
+
+
