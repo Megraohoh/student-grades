@@ -1,4 +1,4 @@
-# NSS Exercise: css 101
+# NSS Exercise: Student Grades
 
 ### Description:
 > Manipulating score/grade data using javascript.   
