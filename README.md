@@ -9,7 +9,7 @@
 > All requirements are met.  
 
 
-![Kermit Blog Screenshot]()
+![Console Screenshot](https://raw.githubusercontent.com/Megraohoh/student-grades/boybandsandveg/screenshot/Screen%20Shot%202017-04-02%20at%208.44.55%20PM.png)
 
 
 
